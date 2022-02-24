@@ -1,0 +1,5 @@
+first_name = input("Enter you name")
+last_name = input("Enter you surname")
+past_year = input("MS program start year?")
+a = 2 + int(past_year)
+print(f"{first_name} {last_name} {past_year} you are graduate in {a}")   
